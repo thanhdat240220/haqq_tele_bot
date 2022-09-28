@@ -1,0 +1,17 @@
+{
+  "name": "bot-tele",
+  "version": "1.0.0",
+  "description": "haqq help bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "jeffjack",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.20",
+    "telegraf": "^4.9.2"
+  }
+}
