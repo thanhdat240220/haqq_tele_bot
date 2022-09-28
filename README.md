@@ -34,5 +34,7 @@ chat '<i>/start</i>' to that you can see that:
 
 You can follow the guide to test. You can use this repository to create an other new feature thanks.
 
+You can go https://t.me/haqqHelp_bot to try it.
+
 Thanks.
 
